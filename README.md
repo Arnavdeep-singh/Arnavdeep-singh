@@ -1,16 +1,29 @@
-## Hi there 👋
+# Arnavdeep Singh
 
-<!--
-**Arnavdeep-singh/Arnavdeep-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CS & Physics Student · Software Development**
 
-Here are some ideas to get you started:
+🎓 Physics/Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 C · Python · Java · Git
+
+🔬 Scientific Computing · Algorithms · Systems
+
+---
+
+### 🛠️ Tech
+
+`C` `Java` `Python` `Git` `NumPy` `SciPy` `Matplotlib`
+
+### 🚀 Building
+
+* 💻 C & systems projects
+* 🐍 Python / scientific computing
+* 🧠 Data structures & algorithms
+
+### 🎯 Open to
+
+**Software Engineering Internships & Co-ops**
+
+---
+
+📫 **[LinkedIn](https://www.linkedin.com/in/arnavdeep-singh/)** · **[Email](arnavsingh2206@gmail.com)**
